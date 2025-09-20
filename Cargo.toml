@@ -7,7 +7,7 @@ Counter-attack nonhuman bad actors that abuse Frequency-shift Keying and Phase-s
 """
 
 readme = "README.md"
-homepage = "https://github.com/gabrielfalcao/faloops"
+repository = "https://github.com/gabrielfalcao/faloops"
 license = "GPL-3.0-or-later"
 keywords = ["audio", "ofdm", "psk", "fsk", "temporal-lobe"]
 authors = ["Gabriel DeMoura <gabrielteratos@gmail.com>"]
